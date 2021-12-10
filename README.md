@@ -1,9 +1,9 @@
 ## Hello there 👋
-- I am Ruben, a student epitech from paris.
+- Hi I'm Ruben, a student from Epitech paris.
 
-- Skill language: C (more in the future 😄).
+- Skill languages: C (but more in the future 😄).
 
-- Passionate about astronomy 🔭, sécurity.
+- Passionate about astronomy 🔭, and security.
 
 ### Contact 📫
 
