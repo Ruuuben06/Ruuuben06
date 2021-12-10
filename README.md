@@ -7,4 +7,4 @@
 
 ### Contact 📫
 
-<a href="ruben.chemla@epitech.eu">manuel@codinglab.io</a>
+<a href="ruben.chemla@epitech.eu">ruben.chemla@epitech.eu</a>
