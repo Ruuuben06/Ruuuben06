@@ -1,7 +1,7 @@
 ## Hello there 👋
-- Hi I'm Ruben, a student from Le Wagon in data science.
+- Hi I'm Ruben, a student from Yutopia meta campus for master data & ia.
 
-- Skill languages: C, C++, Python (but more in the future 😄).
+- Skill languages: C, C++, Python, Maching learning, Deep learing (but more in the future 😄).
 
 - Passionate about astronomy 🔭, tennis, hiking.
 
